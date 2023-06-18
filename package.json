@@ -1,6 +1,6 @@
 {
   "name": "@yuvals-stuff/noise-gen",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A learning project about Pseudo-random number generation, different types of noise generation, and Fractional Brownian Motion (fBm) - including:",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
