@@ -1,0 +1,5 @@
+export { NoiseMap } from './abstract'
+export { FractionalBrownianMotion } from './fBm'
+export { GradientNoise } from './gradient-noise'
+export { HashFunction, RandomnessFunction, ValueFunction } from './types'
+export { ValueNoise } from './value-noise'
